@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "git-link" "0.7.4" "Get the GitHub/Bitbucket/GitLab URL for a buffer location" '((emacs "24.3")) :commit "b5ff7671dbb912e723503984c70402fe3a773a62" :keywords '("git" "vc" "github" "bitbucket" "gitlab" "sourcehut" "convenience") :authors '(("Skye Shaw" . "skye.shaw@gmail.com")) :maintainer '("Skye Shaw" . "skye.shaw@gmail.com") :url "http://github.com/sshaw/git-link")
